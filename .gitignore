@@ -1,0 +1,17 @@
+# Keil / ARM GCC build files
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.lst
+*.dep
+*.build_log.htm
+*.bak
+*.map
+
+# Build directories
+Objects/
+Listings/
+build/
